@@ -2,4 +2,4 @@
 
 my cfg for csgo
 
-# exec main
+exec main
